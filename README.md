@@ -13,8 +13,8 @@ Este proyecto une Palabras  al igual que nombres y apellidos de dos listas en ar
 cd src
 python UniList.py
 ```
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Instalacion
+`Instalacion`
+
 ```sh
 git clone https://github.com/Bunkerwallx/unilista.git
 cd unilsta
