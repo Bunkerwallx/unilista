@@ -8,23 +8,22 @@ Este proyecto une Palabras  al igual que nombres y apellidos de dos listas en ar
 1. Coloca tus archivos `list1.txt`, `list2.txt`, `list3.txt`, `list4.txt`, y `list5.txt` en la carpeta `data/`.
 2. Navega a la carpeta `src/` y ejecuta el script `UniList.py`:
 
-```sh
-cd src
-python unir_listas.py
 
 ```sh
 cd src
 python UniList.py
 ```
-### ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-
-### Contenido de `requirements.txt`:
-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Instalacion
+```sh
+git clone https://github.com/Bunkerwallx/unilista.git
+cd unilsta
+cd src
+chmod +x UniList.py
+python UniList.py
+```
 
 # Este archivo está vacío ya que no se requieren librerías adicionales.
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 ```txt
