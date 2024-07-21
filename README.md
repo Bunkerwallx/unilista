@@ -27,6 +27,7 @@ python UniList.py
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
+```txt
 Ejemplo:
 
 Lista 1     Lista2                                LISTAUNIDA
@@ -35,6 +36,6 @@ Maria       Perez                                 MariaPerez
 Juan        Garcia           RESULTADO =          JuanGarcia
 Ana         Lopez                                 AnaLopez
 
-
+```
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
