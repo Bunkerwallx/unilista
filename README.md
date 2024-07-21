@@ -7,12 +7,12 @@ para una instalacion
 
 ## Cómo Ejecutar el Proyecto
 
-1. Coloca tus archivos `list1.txt` y `list2.txt` en la carpeta `data/`.
-2. Navega a la carpeta `src/` y ejecuta el script `unir_listas.py`:
+1. Coloca tus archivos `list1.txt` y `list2.txt` en la carpeta `publico`.
+2. Navega a la carpeta `src/` y ejecuta el script `unilist.py`:
 
 ```sh
 cd src
-python unir_listas.py
+python unilist.py
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
